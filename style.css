@@ -107,10 +107,12 @@ a {
 }
 
 .goods__icon-wrapper {
+    display: flex;
+    justify-content: center;
     right: 20px;
     border-radius: 50%;
     background: white;
-    padding: 8px;
+    padding: 6px;
 }
 
 .goods__favorites-wrapper {
